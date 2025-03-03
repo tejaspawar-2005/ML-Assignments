@@ -1,1 +1,1 @@
-# ML-Assignments-1
+# ML-Assignments
